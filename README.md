@@ -5,9 +5,12 @@ References
 * https://www.erlang.org/
 
 
-Interesting Github Projects
+Interesting Erlang Related Github Projects
 * https://github.com/phoenixframework/phoenix
 * https://github.com/mrallen1/gisla
 
+
+Interesting Erlang Related Articles
+* https://hub.docker.com/r/mongooseim/mongooseim/
 
 
